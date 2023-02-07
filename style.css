@@ -1,0 +1,18 @@
+#body {
+	font-family: Arial;
+}
+
+
+.centered {
+	text-align: center;
+}
+
+.flex-container {
+	display: flex;	
+}
+
+
+.image-size {
+	width: 50%;
+	margin-right: 50px;
+}
